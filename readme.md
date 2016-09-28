@@ -10,6 +10,11 @@ Anyone who would like to contribute to the code may do so with my approval. Plea
 #Issues and feedback
 All your feedback are welcomed.
 
+#Changelog 
+## V1
+- searching in Islamweb.
+- adding illustration for the Hadith.
+
 #What in Next Version
 - Adding more authentic books.
 - Adding Classification for Hadith.
